@@ -25,3 +25,6 @@ let hexadecimalInteger = 0x11 // 1*16^1 + 1*16^0
 let decimalDouble = 12.1875
 let exponentDouble = 1.21875e1
 let exadecimalDouble = 0xC.3p0
+
+
+let paddedDouble = 000123.456
