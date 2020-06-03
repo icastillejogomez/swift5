@@ -28,3 +28,9 @@ let exadecimalDouble = 0xC.3p0
 
 
 let paddedDouble = 000123.456
+let oneMillion = 1_000_000
+
+// Asignar un numero negativo a un unsigned
+// La siguiente linea de error
+// let cannotBeNegative: UInt64 = -1
+
